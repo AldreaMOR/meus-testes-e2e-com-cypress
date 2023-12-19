@@ -9,3 +9,7 @@ module.exports = defineConfig({
     }
   },
 })
+
+//MAILOSAUR_SERVER_ID - get ID on https://mailosaur.com/app/servers
+//MAILOSAUR_API_KEY - get Key on https://mailosaur.com/app/account/keys
+//
